@@ -1,0 +1,52 @@
+name: learning_spanish
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  audioplayers: ^6.8.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/image/animals/
+    - assets/image/colors/
+    - assets/image/family/
+    - assets/image/food_drinks/
+    - assets/image/numbers/
+
+    - assets/sounds/animals/
+    - assets/sounds/colors/
+    - assets/sounds/family/
+    - assets/sounds/food_drinks/
+    - assets/sounds/numbers/
+
+  fonts:
+    - family: Facebook
+      fonts:
+        - asset: assets/fonts/facebook-Bold.ttf
+          weight: 700
+
+    - family: GrindyBrush
+      fonts:
+        - asset: assets/fonts/Grindy Brush.otf
+
+    - family: Heylowitch
+      fonts:
+        - asset: assets/fonts/Heylowitch-Regular.otf
