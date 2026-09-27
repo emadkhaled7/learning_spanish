@@ -1,17 +1,35 @@
-# learning_spanish
+# Spanish Learning App
 
-A new Flutter project.
+A simple and interactive Flutter application designed to help users learn Spanish vocabulary through images, words, and audio pronunciation.
+
+## Features
+
+* Learn Spanish vocabulary
+* Vocabulary organized by categories
+* Animals vocabulary
+* Spanish words with images
+* Audio pronunciation for vocabulary
+* Interactive learning experience
+* Simple and user-friendly interface
+* Responsive Flutter UI
+
+## Technologies
+
+* Flutter
+* Dart
+* Material Design
+* Audio Players
+* Local Assets
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository.
+2. Open the project in Android Studio or VS Code.
+3. Run `flutter pub get`.
+4. Run the application using `flutter run`.
 
-A few resources to get you started if this is your first Flutter project:
+## Author
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Emad Khaled
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+GitHub: https://github.com/emadkhaled7
